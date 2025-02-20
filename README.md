@@ -1,4 +1,5 @@
 # LABORATORIO 2. CONVOLUCIÓN Y CORRELACIÓN
+Autores: Midalys Vanessa Aux y Manuela Martinez 
 ## Introducción 
 ## Analisis
 ## Instrucciones
